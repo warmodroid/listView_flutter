@@ -1,6 +1,7 @@
 # Learn how to design list of card widgets in flutter. 
 
 This flutter tutorial is for beginner to make them understand the concept of card widgets and how to make custom class.
+[Vist the website for more details](https://warmodroid.xyz/)
 
 ## Getting Started
 
